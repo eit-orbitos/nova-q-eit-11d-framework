@@ -1,0 +1,37 @@
+NOVA Q / EIT 11D Conceptual Research Framework
+STATUS LOCK SUMMARY
+
+AUTHOR: Mr. Toni Mladenovski
+FRAMEWORK: NOVA Q / EIT 11D
+VERSION: V1.0
+DATE: June 2026
+STATUS: Complete Paper - APA Formatted with Inline Citations
+SAFETY: Article 7 Active - Conceptual Research Only
+
+LOCK STATUS:
+LOCK 1 - Final Title + Abstract + Core Thesis: LOCKED V1.0
+LOCK 2 - 11D Framework Definition: LOCKED V1.0
+LOCK 3 - Experiment 1: Autism / Neurodevelopmental Coherence: LOCKED V1.0
+LOCK 4 - Experiment 2: MS / Hidden Network Coherence: LOCKED V1.0
+LOCK 5 - Experiment 3: Cellular Rejuvenation / Identity-Time Stability: LOCKED V1.0
+LOCK 6 - Integration / Comparative Synthesis: LOCKED V1.0
+LOCK 7 - Final Framework Summary and Closing: LOCKED V1.0
+
+BUILD STATUS:
+DOCX: COMPLETE
+PDF: COMPLETE
+REFERENCES: COMPLETE V1.1
+INLINE CITATIONS: COMPLETE
+APA 7th FORMAT: COMPLETE
+VISUAL APPENDIX PLAN: COMPLETE
+
+SAFETY BOUNDARY:
+No diagnosis.
+No treatment.
+No cure claim.
+No clinical prediction.
+No human-use protocol.
+No biological intervention instruction.
+No replacement for qualified medical professionals or validated scientific research.
+
+FINAL STATUS: READY FOR REVIEW / SHARING AS CONCEPTUAL RESEARCH DOCUMENT.

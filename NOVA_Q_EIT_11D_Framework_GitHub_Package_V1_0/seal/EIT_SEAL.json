@@ -1,0 +1,36 @@
+{
+  "seal_name": "NOVA_Q_EIT_11D_FRAMEWORK_SEAL",
+  "version": "1.0",
+  "seal_status": "ACTIVE",
+  "created_utc": "2026-06-28T14:21:08Z",
+  "created_by": "Mr. Toni Mladenovski",
+  "founder_ideologist_architect": "Mr. Toni Mladenovski",
+  "framework": "NOVA Q / EIT 11D",
+  "article_7": {
+    "active": true,
+    "scope": "Conceptual research only",
+    "boundaries": [
+      "No diagnosis",
+      "No treatment",
+      "No cure claim",
+      "No clinical prediction",
+      "No MRI reinterpretation",
+      "No biological intervention protocol",
+      "No human-use guidance",
+      "No replacement for medical professionals",
+      "No validated biomarker claim"
+    ],
+    "stop_rule": "If an interpretation crosses the boundary, the model stops."
+  },
+  "core_principle": "Before interpretation begins, identify where the flow is stuck.",
+  "locked_components": [
+    "LOCK 1 \u2014 Final Title + Abstract + Core Thesis",
+    "LOCK 2 \u2014 11D Framework Definition",
+    "LOCK 3 \u2014 Experiment 1: Autism / Neurodevelopmental Coherence",
+    "LOCK 4 \u2014 Experiment 2: MS / Hidden Network Coherence",
+    "LOCK 5 \u2014 Experiment 3: Cellular Rejuvenation / Identity-Time Stability",
+    "LOCK 6 \u2014 Integration / Comparative Synthesis",
+    "LOCK 7 \u2014 Final Framework Summary and Closing",
+    "Annex E \u2014 The Enigma Paradox Symbolic Lock"
+  ]
+}

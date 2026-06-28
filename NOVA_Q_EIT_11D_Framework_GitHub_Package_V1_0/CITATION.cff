@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "NOVA Q / EIT 11D Conceptual Research Framework"
+message: "If you use this conceptual framework, please cite it as below."
+type: software
+authors:
+  - family-names: "Mladenovski"
+    given-names: "Toni"
+version: "1.0"
+date-released: "2026-06"
+abstract: "A safety-bounded conceptual research framework for analyzing biological paradox structures through information-flow blockage analysis."
+license: MIT

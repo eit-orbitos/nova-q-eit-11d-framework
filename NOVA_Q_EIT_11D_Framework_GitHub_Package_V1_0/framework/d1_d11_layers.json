@@ -1,0 +1,49 @@
+{
+  "framework": "NOVA Q / EIT 11D",
+  "layers": [
+    {
+      "id": "D1",
+      "name": "Structural Substrate"
+    },
+    {
+      "id": "D2",
+      "name": "Sensory / Input"
+    },
+    {
+      "id": "D3",
+      "name": "Signal Translation"
+    },
+    {
+      "id": "D4",
+      "name": "Network Integration"
+    },
+    {
+      "id": "D5",
+      "name": "Coherence"
+    },
+    {
+      "id": "D6",
+      "name": "Compensation / Reserve"
+    },
+    {
+      "id": "D7",
+      "name": "Environmental / Context"
+    },
+    {
+      "id": "D8",
+      "name": "Temporal Development"
+    },
+    {
+      "id": "D9",
+      "name": "Identity / Meaning"
+    },
+    {
+      "id": "D10",
+      "name": "Safety / Boundary"
+    },
+    {
+      "id": "D11",
+      "name": "Research Output / Symbolic Translation"
+    }
+  ]
+}

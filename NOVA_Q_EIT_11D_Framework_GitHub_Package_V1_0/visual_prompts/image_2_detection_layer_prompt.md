@@ -1,0 +1,2 @@
+# IMAGE 2 — Detection Layer
+Title: DETECTION LAYER — WHERE FLOW IS STUCK

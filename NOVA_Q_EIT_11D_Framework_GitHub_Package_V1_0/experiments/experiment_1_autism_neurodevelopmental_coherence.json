@@ -1,0 +1,21 @@
+{
+  "name": "Autism / Neurodevelopmental Coherence",
+  "paradox": "Same external world \u2260 same internal load",
+  "blockage": "Input intensity exceeds coherence translation capacity.",
+  "dominant_layers": [
+    "D2",
+    "D3",
+    "D4",
+    "D5",
+    "D6",
+    "D9",
+    "D10"
+  ],
+  "formula": "B_block = (S_input \u00d7 A_neural \u00d7 E_context) / (F_filter \u00d7 N_integration \u00d7 R_reserve)",
+  "safety": [
+    "No diagnosis",
+    "No treatment",
+    "No cure claim",
+    "No deficit-only framing"
+  ]
+}

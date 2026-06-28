@@ -1,0 +1,1 @@
+The exact SHA-256 of the final ZIP package is stored beside the ZIP as NOVA_Q_EIT_11D_Framework_GitHub_Package_V1_0_SEALED_SHA256.txt

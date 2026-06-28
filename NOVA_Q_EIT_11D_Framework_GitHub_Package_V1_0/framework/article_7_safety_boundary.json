@@ -1,0 +1,15 @@
+{
+  "article": "Article 7",
+  "layer": "D10",
+  "active": true,
+  "prohibitions": [
+    "No diagnosis",
+    "No treatment",
+    "No cure claim",
+    "No clinical prediction",
+    "No MRI reinterpretation",
+    "No biological intervention protocol",
+    "No human-use guidance"
+  ],
+  "stop_rule": "If an interpretation crosses the boundary, the model stops."
+}

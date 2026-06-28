@@ -1,0 +1,2 @@
+# IMAGE 1 — The Core Problem
+Title: VISIBLE STRUCTURE ≠ HIDDEN SYSTEM FLOW

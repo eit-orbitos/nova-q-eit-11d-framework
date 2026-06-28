@@ -1,0 +1,19 @@
+{
+  "name": "Cellular Rejuvenation / Identity-Time Stability",
+  "paradox": "Age reset \u2260 safe identity preservation",
+  "blockage": "Age-reset signaling becomes unsafe if identity coherence and safety boundaries are not preserved.",
+  "dominant_layers": [
+    "D3",
+    "D5",
+    "D8",
+    "D9",
+    "D10"
+  ],
+  "formula": "B_block = (R_reset \u00d7 D_dediff \u00d7 T_tumor) / (I_identity \u00d7 G_genome \u00d7 C_coherence \u00d7 S_safety)",
+  "safety": [
+    "No protocol",
+    "No human-use instruction",
+    "No treatment",
+    "No rejuvenation claim"
+  ]
+}

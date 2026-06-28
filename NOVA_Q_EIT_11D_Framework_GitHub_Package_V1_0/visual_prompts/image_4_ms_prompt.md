@@ -1,0 +1,2 @@
+# IMAGE 4 — MS / Hidden Network Coherence
+Title: VISIBLE LESIONS ≠ FULL NETWORK DISRUPTION

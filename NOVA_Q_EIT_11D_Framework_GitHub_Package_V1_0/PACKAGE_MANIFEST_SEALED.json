@@ -1,0 +1,10 @@
+{
+  "package": "NOVA_Q_EIT_11D_Framework_GitHub_Package_V1_0_SEALED",
+  "sealed_utc": "2026-06-28T14:21:08Z",
+  "created_by": "Mr. Toni Mladenovski",
+  "framework": "NOVA Q / EIT 11D",
+  "article_7": "ACTIVE",
+  "file_count": 35,
+  "included_seal": true,
+  "checksum_file": "seal/SHA256SUMS.txt"
+}

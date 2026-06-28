@@ -1,0 +1,20 @@
+{
+  "name": "Multiple Sclerosis / Hidden Network Coherence",
+  "paradox": "Visible lesion load \u2260 complete functional disruption map",
+  "blockage": "Visible structural lesion mapping fails to capture hidden functional network disruption.",
+  "dominant_layers": [
+    "D1",
+    "D4",
+    "D5",
+    "D6",
+    "D8",
+    "D10"
+  ],
+  "formula": "B_block = (L_visible \u00d7 W_location \u00d7 S_spinal \u00d7 O_optic \u00d7 M_micro \u00d7 T_time) / (N_network \u00d7 R_reserve)",
+  "safety": [
+    "No diagnosis",
+    "No MRI reinterpretation",
+    "No clinical prediction",
+    "No treatment recommendation"
+  ]
+}
